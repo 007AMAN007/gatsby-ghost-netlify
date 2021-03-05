@@ -59,9 +59,6 @@ module.exports = {
                 name: `pages`,
             },
         },
-        {
-            resolve: `gatsby-theme-ghost-members`,
-        },
         // Setup for optimised images.
         // See https://www.gatsbyjs.org/packages/gatsby-image/
         {

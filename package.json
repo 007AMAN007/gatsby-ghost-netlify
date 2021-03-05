@@ -54,8 +54,6 @@
     "gatsby-plugin-sharp": "2.14.3",
     "gatsby-source-filesystem": "2.11.1",
     "gatsby-source-ghost": "4.2.3",
-    "gatsby-theme-ghost-members": "^2.0.0",
-    "gatsby-theme-try-ghost": "^2.0.0",
     "gatsby-transformer-sharp": "2.12.0",
     "lodash": "4.17.21",
     "react": "17.0.1",
